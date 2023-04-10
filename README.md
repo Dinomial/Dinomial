@@ -6,5 +6,7 @@
 <h3>Hi there, my name is Dinomial!</h3>
 
 <ul>
-  <li>Hi there</li>
+  <li>Aspiring Programmer and Game Developer</li>
+  <li>Extremely Amateur Pixel Artist</li>
+  <li>Amateur Modder for SRB2Kart (open source Sonic the Hedgehog Kart Racer
 </ul>
