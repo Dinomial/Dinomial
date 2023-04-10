@@ -5,6 +5,6 @@
 </h1>
 <h3>Hi there, my name is Dinomial!</h3>
 
-<ul style="list-style-image: url(images/Bullet-Chevron.png)">
+<ul>
   <li>Hi there</li>
 </ul>
