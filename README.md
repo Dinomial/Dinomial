@@ -8,5 +8,5 @@
 <ul>
   <li>Aspiring Programmer and Game Developer</li>
   <li>Extremely Amateur Pixel Artist</li>
-  <li>Amateur Modder for SRB2Kart (open source Sonic the Hedgehog Kart Racer
+  <li>Amateur Modder for SRB2Kart (open source Sonic the Hedgehog Kart Racer</li>
 </ul>
