@@ -8,5 +8,5 @@
 <ul>
   <li>Aspiring Programmer and Game Developer</li>
   <li>Extremely Amateur Pixel Artist</li>
-  <li>Amateur Modder for SRB2Kart (Sonic the Hedgehog Kart Racer made in Doom)</li>
+  <li>Amateur Modder for SRB2 and SRB2-adjacent games (Sonic Fangame built in Doom's Engine)</li>
 </ul>
